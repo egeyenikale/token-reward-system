@@ -1,0 +1,103 @@
+{
+  "slug": "token-reward-system",
+  "title": "Token Reward System",
+  "category": "blockchain",
+  "difficulty": "medium",
+  "period": "2026-Q1",
+  "estimatedCommits": 14,
+  "description": "Token reward system for completed tasks.",
+  "features": [
+    "Task registry",
+    "Completion proof",
+    "Reward calculation",
+    "Token transfer",
+    "Admin controls",
+    "Activity log"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for reward calculation",
+      "commitMessage": "feat: add validation rules for reward calculation"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for token transfer",
+      "commitMessage": "feat: add reporting view for token transfer"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for admin controls",
+      "commitMessage": "feat: add export or integration support for admin controls"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for activity log",
+      "commitMessage": "refactor: improve service boundaries for activity log"
+    },
+    {
+      "number": 13,
+      "type": "fix",
+      "title": "handle edge cases for task registry",
+      "commitMessage": "fix: handle edge cases for task registry"
+    },
+    {
+      "number": 14,
+      "type": "perf",
+      "title": "improve query or request performance for completion proof",
+      "commitMessage": "perf: improve query or request performance for completion proof"
+    }
+  ]
+}
