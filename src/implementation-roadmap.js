@@ -8,3 +8,8 @@ export const stage2 = {
   "date": "2025-12-15",
   "message": "feat: add core domain model"
 };
+
+export const stage3 = {
+  "date": "2025-12-30",
+  "message": "feat: configure persistence or state layer"
+};
