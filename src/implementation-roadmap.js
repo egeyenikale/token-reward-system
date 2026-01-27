@@ -28,3 +28,8 @@ export const stage6 = {
   "date": "2026-01-22",
   "message": "test: add automated coverage"
 };
+
+export const stage7 = {
+  "date": "2026-01-27",
+  "message": "docs: add installation and usage documentation"
+};

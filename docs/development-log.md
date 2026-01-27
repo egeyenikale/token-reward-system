@@ -24,3 +24,7 @@ feat: add public interface
 
 test: add automated coverage
 
+## 2026-01-27 - Stage 7
+
+docs: add installation and usage documentation
+
