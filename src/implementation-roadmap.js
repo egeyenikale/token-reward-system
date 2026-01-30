@@ -33,3 +33,8 @@ export const stage7 = {
   "date": "2026-01-27",
   "message": "docs: add installation and usage documentation"
 };
+
+export const stage8 = {
+  "date": "2026-01-30",
+  "message": "ci: add build and test workflow"
+};
