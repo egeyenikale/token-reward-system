@@ -40,3 +40,7 @@ feat: add validation rules for reward calculation
 
 feat: add reporting view for token transfer
 
+## 2026-02-27 - Stage 11
+
+feat: add export or integration support for admin controls
+
