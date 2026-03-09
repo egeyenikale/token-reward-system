@@ -44,3 +44,7 @@ feat: add reporting view for token transfer
 
 feat: add export or integration support for admin controls
 
+## 2026-03-09 - Stage 12
+
+refactor: improve service boundaries for activity log
+
