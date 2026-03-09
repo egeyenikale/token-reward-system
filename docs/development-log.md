@@ -48,3 +48,7 @@ feat: add export or integration support for admin controls
 
 refactor: improve service boundaries for activity log
 
+## 2026-03-09 - Stage 13
+
+fix: handle edge cases for task registry
+
